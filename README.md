@@ -29,6 +29,8 @@ nomsg = 特に消えてなかったからなにもしてないよ
 
 なお、ディレクトリは次の方法で確認できます。
 
+![説明1](https://github.com/ishida-shunya/Umamusume_copyfileauto/blob/images/image3.png)　　![説明2](https://github.com/ishida-shunya/Umamusume_copyfileauto/blob/images/image2.png)
+
 - DMM GAME Playerを起動
 - Myゲームをクリック
 - ウマ娘にカーソルを合わせ、左上をクリック
