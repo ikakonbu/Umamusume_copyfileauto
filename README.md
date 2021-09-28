@@ -1,8 +1,11 @@
 # Umamusume_copyfileauto
 ## 説明
-ウマ娘60fps化スクリプト(https://github.com/GEEKiDoS/umamusume-localify) 用補助Pythonスクリプトです。
+ウマ娘60fps化スクリプト(https://github.com/GEEKiDoS/umamusume-localify) 用補助アプリです。
 
 アップデート時にファイルが消されるのでこちらのツールでもう一回追加し直します
+
+## 要件
+**Windows10だったらたぶん動きます。**
 
 ## ダウンロード
 ページ右側の"Release"をクリックして、一番新しそうな'Umafile****.zip'をダウンロード
